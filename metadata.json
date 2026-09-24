@@ -1,0 +1,6 @@
+{
+  "name": "Fukudu Invest",
+  "description": "Smart Investment Analyzer & Portfolio Recommender with Thai SETTRADE-style market overview, asset allocation, and sector analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
